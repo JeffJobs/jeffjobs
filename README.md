@@ -1,8 +1,3 @@
-<!-- Nome Completo -->
-<p align="center">
-    <strong style="font-size: 24px; color: #0F8A00; font-family: 'Fira Code', monospace; font-weight: 400;">Jefferson Camargo</strong>
-</p>
-
 <!-- Sobre Mim - Typing SVG -->
 <p align="center">
     <a href="https://github.com/JeffJobs">
