@@ -2,10 +2,8 @@
 <h1 align="center">
     <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=200000&color=fb8c00&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+Jeff+Camargo+👋" /></a>
     <br>
-    <img align="right" height="60px" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/banner.gif">
     <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=fb8c00&size=28&center=true&vCenter=true&width=500&lines=💻+Desenvolvedor+Júnior;🚀+Apaixonado+por+Tecnologia;🎓+Futuro+Técnico+em+TI;🧠+Sempre+Aprendendo+Mais;📚+Aficionado+por+Leitura;☕+Viciado+em+Café" /></a>
 </h1>
-
 
 <!-- Redes Sociais -->
 <p align="center">
@@ -47,8 +45,8 @@
 <p align="center">
     <a href="https://github.com/JeffJobs?tab=repositories&sort=stargazers" target="_blank"><img alt="Total de Stars no GitHub" title="Total de Stars no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JeffJobs?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
     <a href="https://github.com/JeffJobs?tab=followers" target="_blank"><img alt="Total de Seguidores no GitHub" title="Total de Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/JeffJobs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguindo&logoColor=white" /></a>
-    <!-- ***** Criar Funcionalidade do badge Visitors ***** -->
-    <a href="" target="_blank"><img alt="Total de Visitas no GitHub" title="Total de Visitas no GitHub" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views" /></a>
+    <a href="" target="_blank"><img alt="Total de Visitas no GitHub" title="Total de Visitas no GitHub" src="https://komarev.com/ghpvc/?username=jeffjobs&logo=GitHub&label=visitantes&color=7c007c&logoColor=white&style=for-the-badge&abbreviated=true" /></a>
+    <!-- Link teste: src="https://freshidea.com/jonah/app/DenverCoder1-profile-views" -->
 </p>
 
 ---
@@ -66,7 +64,7 @@
     <code><img height="38px" alt="react" title="React" src="https://img.icons8.com/color/react-native.png" /></code>
     <code><img height="38px" alt="Git" title="Git" src="https://img.icons8.com/color/git.png" /></code>
     <code><img height="38px" alt="GitHub" title="GitHub" src="https://img.icons8.com/fluency/48/github.png" /></code>
-    <code><img height="38px" alt="Shell" title="Shell" src="https://img.icons8.com/fluency/linux-terminal.png" /></code>
+    <code><img height="38px" alt="Bash" title="Bash" src="https://img.icons8.com/fluency/linux-terminal.png" /></code>
 </p>
 
 ---
@@ -80,20 +78,17 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" height="158px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/top-langs/?username=kittinan&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=fb8c00&text_color=FFF&icon_color=F8D866&" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" height="158px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/wakatime?username=kittinan&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=fb8c00&text_color=FFF&icon_color=F8D866&" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" height="158px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/top-langs/?username=jeffjobs&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=fb8c00&text_color=FFF&icon_color=F8D866&" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" height="158px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/wakatime?username=jeffjobs&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=fb8c00&text_color=FFF&icon_color=F8D866&" /></a>
 </p>
 
 ---
 
 <!-- GitHub Conquistas -->
-<h3 align="center">🏆 Conquistas 🏆</h3>
+<h2 align="center">🏆 Conquistas 🏆</h2>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Conquistas Github" title="Conquistas Github" src="https://github-profile-trophy.vercel.app/?username=JeffJobs&theme=darkhub" /></a>
 </p>
 
 ---
-
-<a href="" target="_blank"><img alt="Total de Visitas no GitHub" title="Total de Visitas no GitHub" src="https://komarev.com/ghpvc/?username=jeffjobs&logo=GitHub&label=visitantes&color=7c007c&logoColor=white&style=for-the-badge&abbreviated=true" /></a>
-<a href="" target="_blank"><img alt="Total de Visitas no GitHub" title="Total de Visitas no GitHub" src="https://komarev.com/ghpvc/?username=JeffJobs&color=7c007c&labelColor=640464&style=for-the-badge&logo=person-add&label=visitantes&logoColor=white&abbreviated=true&base=1500" /></a>
