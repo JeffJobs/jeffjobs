@@ -77,8 +77,11 @@
 <p align="center">
     <a href="https://github.com/JeffJobs" target="_blank"><img align="center" width="400px" height="160px" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=JeffJobs&theme=dark&border=true&locale=pt_BR" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="400px" height="158px" alt="Estatísticas GitHub" src="https://github-readme-stats-jeffjobs.vercel.app/api?username=JeffJobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=fb8c00&text_color=fff&icon_color=858585" /></a>
-    <!-- https://github-readme-stats-jeffjobs.vercel.app/api/top-langs/?username=JeffJobs&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=fb8c00&text_color=FFF&icon_color=F8D866& -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" height="158px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=fb8c00&text_color=FFF&icon_color=F8D866&" /></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" height="158px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/top-langs/?username=kittinan&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=fb8c00&text_color=FFF&icon_color=F8D866&" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" height="158px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/wakatime?username=kittinan&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=fb8c00&text_color=FFF&icon_color=F8D866&" /></a>
 </p>
 
 ---
@@ -89,6 +92,8 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Conquistas Github" title="Conquistas Github" src="https://github-profile-trophy.vercel.app/?username=JeffJobs&theme=darkhub" /></a>
 </p>
-gruvbox
-juicyfresh
+
 ---
+
+<a href="" target="_blank"><img alt="Total de Visitas no GitHub" title="Total de Visitas no GitHub" src="https://komarev.com/ghpvc/?username=jeffjobs&logo=GitHub&label=visitantes&color=7c007c&logoColor=white&style=for-the-badge&abbreviated=true" /></a>
+<a href="" target="_blank"><img alt="Total de Visitas no GitHub" title="Total de Visitas no GitHub" src="https://komarev.com/ghpvc/?username=JeffJobs&color=7c007c&labelColor=640464&style=for-the-badge&logo=person-add&label=visitantes&logoColor=white&abbreviated=true&base=1500" /></a>
