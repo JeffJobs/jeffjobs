@@ -1,8 +1,8 @@
 <!-- Typing SVG -->
 <h1 align="center">
-    <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=200000&color=06B6D4&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+Jeff+Camargo+👋" /></a>
+    <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=200000&color=fc5929&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+Jeff+Camargo+👋" /></a>
     <br>
-    <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=06b6d4&size=28&center=true&vCenter=true&width=500&lines=💻+Desenvolvedor+Júnior;🚀+Apaixonado+por+Tecnologia;🎓+Futuro+Técnico+em+TI;🧠+Sempre+Aprendendo+Mais;📚+Aficionado+por+Leitura;☕+Viciado+em+Café" /></a>
+    <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=fc5929&size=28&center=true&vCenter=true&width=500&lines=💻+Desenvolvedor+Júnior;🚀+Apaixonado+por+Tecnologia;🎓+Futuro+Técnico+em+TI;🧠+Sempre+Aprendendo+Mais;📚+Aficionado+por+Leitura;☕+Viciado+em+Café" /></a>
 </h1>
 
 <!-- Redes Sociais -->
@@ -76,13 +76,13 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank"><img align="center" width="380px" height="150px" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=JeffJobs&theme=dark&currStreakLabel=fff&ring=06B6D4&sideNums=06B6D4&border=true&locale=pt_BR" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="358px" height="150px" alt="Estatísticas GitHub" src="https://github-readme-stats-jeffjobs.vercel.app/api?username=JeffJobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=858585" /></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank"><img align="center" width="380px" height="150px" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=JeffJobs&theme=dark&currStreakLabel=fff&ring=fc5929&sideNums=fc5929&border=true&locale=pt_BR" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="358px" height="150px" alt="Estatísticas GitHub" src="https://github-readme-stats-jeffjobs.vercel.app/api?username=JeffJobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=fc5929&text_color=fff&icon_color=858585" /></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="240px" height="150px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/top-langs/?username=ffflabs&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=f8d866&" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="390px" height="150px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/wakatime?username=ffflabs&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=f8d866&" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="240px" height="150px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/top-langs/?username=ffflabs&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=fc5929&text_color=fff&icon_color=f8d866&" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="390px" height="150px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/wakatime?username=ffflabs&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=fc5929&text_color=fff&icon_color=f8d866&" /></a>
 </p>
 
 ---
@@ -90,8 +90,8 @@
 <h2 align="center">🏆 Top Repositórios 🏆</h2>
 
 <p align="center">
-    <a href="https://github.com/JeffJobs/jeffjobs" target="_blank"><img align="center" width="370px" height="160px" src="https://github-readme-stats-jeffjobs.vercel.app/api/pin/?username=jeffjobs&repo=jeffjobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=858585" /></a>
-    <a href="" target="_blank"><img align="center" width="370px" height="160px" src="https://github-readme-stats-jeffjobs.vercel.app/api/pin/?username=jeffjobs&repo=jeffjobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=858585" /></a>
+    <a href="https://github.com/JeffJobs/jeffjobs" target="_blank"><img align="center" width="370px" height="160px" src="https://github-readme-stats-jeffjobs.vercel.app/api/pin/?username=jeffjobs&repo=jeffjobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=fc5929&text_color=fff&icon_color=858585" /></a>
+    <a href="" target="_blank"><img align="center" width="370px" height="160px" src="https://github-readme-stats-jeffjobs.vercel.app/api/pin/?username=jeffjobs&repo=jeffjobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=fc5929&text_color=fff&icon_color=858585" /></a>
 </p>
 
 ---
