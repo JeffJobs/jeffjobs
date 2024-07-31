@@ -76,13 +76,13 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank"><img align="center" width="400px" height="160px" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=JeffJobs&theme=dark&currStreakLabel=fff&ring=06B6D4&sideNums=06B6D4&border=true&locale=pt_BR" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="400px" height="158px" alt="Estatísticas GitHub" src="https://github-readme-stats-jeffjobs.vercel.app/api?username=JeffJobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=858585" /></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank"><img align="center" width="380px" height="150px" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=JeffJobs&theme=dark&currStreakLabel=fff&ring=06B6D4&sideNums=06B6D4&border=true&locale=pt_BR" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="358px" height="150px" alt="Estatísticas GitHub" src="https://github-readme-stats-jeffjobs.vercel.app/api?username=JeffJobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=858585" /></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="265px" height="154px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/top-langs/?username=ffflabs&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=f8d866&" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="400px" height="158px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/wakatime?username=ffflabs&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=f8d866&" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="240px" height="150px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/top-langs/?username=ffflabs&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=f8d866&" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="390px" height="150px" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/wakatime?username=ffflabs&langs_count=8&layout=compact&border=true&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=f8d866&" /></a>
 </p>
 
 ---
@@ -91,7 +91,6 @@
 
 <p align="center">
     <a href="https://github.com/JeffJobs/jeffjobs" target="_blank"><img align="center" width="400px" height="160px" src="https://github-readme-stats-jeffjobs.vercel.app/api/pin/?username=jeffjobs&repo=jeffjobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=858585" /></a>
-    &#8287;&#8287;
     <a href="" target="_blank"><img align="center" width="400px" height="160px" src="https://github-readme-stats-jeffjobs.vercel.app/api/pin/?username=jeffjobs&repo=jeffjobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=858585" /></a>
 </p>
 
