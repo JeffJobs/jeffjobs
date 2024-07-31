@@ -90,8 +90,8 @@
 <h2 align="center">🏆 Top Repositórios 🏆</h2>
 
 <p align="center">
-    <a href="https://github.com/JeffJobs/jeffjobs" target="_blank"><img align="center" width="400px" height="160px" src="https://github-readme-stats-jeffjobs.vercel.app/api/pin/?username=jeffjobs&repo=jeffjobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=858585" /></a>
-    <a href="" target="_blank"><img align="center" width="400px" height="160px" src="https://github-readme-stats-jeffjobs.vercel.app/api/pin/?username=jeffjobs&repo=jeffjobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=858585" /></a>
+    <a href="https://github.com/JeffJobs/jeffjobs" target="_blank"><img align="center" width="370px" height="160px" src="https://github-readme-stats-jeffjobs.vercel.app/api/pin/?username=jeffjobs&repo=jeffjobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=858585" /></a>
+    <a href="" target="_blank"><img align="center" width="370px" height="160px" src="https://github-readme-stats-jeffjobs.vercel.app/api/pin/?username=jeffjobs&repo=jeffjobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=151515&title_color=06b6d4&text_color=fff&icon_color=858585" /></a>
 </p>
 
 ---
