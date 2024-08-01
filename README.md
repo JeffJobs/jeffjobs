@@ -100,7 +100,7 @@
 <h2 align="center">🏅 Conquistas 🏅</h2>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Conquistas Github" title="Conquistas Github" src="https://github-profile-trophy.vercel.app/?username=JeffJobs&theme=darkhub" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Conquistas Github" title="Conquistas Github" src="https://github-profile-trophy.vercel.app/?username=JeffJobs&theme=onestar&margin-w=3&margin-h=15&column=6&title=-Issues,-PullRequest" /></a>
 </p>
 
 ---
