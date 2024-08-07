@@ -42,7 +42,7 @@
     Sou entusiasta de jogos e gosto de jogar meus games favoritos.
     Estou atualmente aprendendo
     <br>
-    a desenvolver aplicações em C# ultilizando Windows Forms.
+    a desenvolver aplicações em C# com .NET e Windows Forms.
 </p>
 
 <!-- Badges Icons GitHub -->
@@ -82,7 +82,7 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="400" height="155" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/top-langs/?username=jeffjobs&langs_count=8&layout=compact&border=true&bg_color=0d1117&title_color=fc5929&text_color=fff&icon_color=f8d866&locale=pt-BR&card_width=503px" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="400" height="155" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/wakatime?username=JeffJobs&langs_count=8&layout=compact&border=true&bg_color=0d1117&title_color=fc5929&text_color=fff&icon_color=f8d866&locale=pt-BR&card_width=503px" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="400" height="155" alt="Top Linguagens" src="https://github-readme-stats-jeffjobs.vercel.app/api/wakatime?username=JeffJobs&langs_count=8&layout=compact&border=true&bg_color=0d1117&title_color=fc5929&text_color=fff&icon_color=f8d866&locale=pt-BR&card_width=503px&hide=markdown" /></a>
 </p>
 
 ---
