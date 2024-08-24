@@ -11,8 +11,6 @@
     &#8287;
     <a href="https://x.com/JeffJobsTI" target="_blank"><img width="22px" alt="X" title="X" src="https://imgur.com/UH37fX3.png" /></a>
     &#8287;
-    <a href="https://www.instagram.com/jeff.jobs.ti/" target="_blank"><img width="22px" alt="Instagram" title="Instagram" src="https://imgur.com/YBseT8m.png" /></a>
-    &#8287;
     <a href="https://pt.stackoverflow.com/users/352282/jeffjobs" target="_blank"><img width="22px" alt="Stack Overflow" title="Stack Overflow" src="https://imgur.com/9ySTsfI.png" /></a>
     &#8287;
     <a href="https://www.goodreads.com/jeffjobs" target="_blank"><img width="22px" alt="Good Reads" title="Good Reads" src="https://imgur.com/jFhskln.png" /></a>
